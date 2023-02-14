@@ -1,3 +1,4 @@
+https://api.daily.dev/devcards/a739efec348643cf9a42b295f98fe775.png?r=1fl
 - 👋 Hi, I’m @antoinefusilier
 - 👀 I’m interested in Google Cloud, Object, Components and Containers !
 - 🌱 I’m currently learning Cyber Security, NodeJS, Angular, SQL Advanced and TypeScript
