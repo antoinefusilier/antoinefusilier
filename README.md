@@ -1,4 +1,4 @@
-https://api.daily.dev/devcards/a739efec348643cf9a42b295f98fe775.png?r=1fl
+<a href="https://app.daily.dev/sahirato"><img src="https://api.daily.dev/devcards/a739efec348643cf9a42b295f98fe775.png?r=1fl" width="400" alt="Antoine Fusilier's Dev Card"/></a>
 - 👋 Hi, I’m @antoinefusilier
 - 👀 I’m interested in Google Cloud, Object, Components and Containers !
 - 🌱 I’m currently learning Cyber Security, NodeJS, Angular, SQL Advanced and TypeScript
