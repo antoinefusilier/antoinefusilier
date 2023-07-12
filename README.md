@@ -1,3 +1,4 @@
+!['Robot']('assets/giphy_robot.gif')
 <div style="display: flex; flex-direction: row; align-item:center;">
   <div>
     - 👋 Hi, I’m @antoinefusilier
