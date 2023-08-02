@@ -1,8 +1,4 @@
-!['Robot']('assets/giphy_robot.gif')
-<!---
-<div style="display: flex; flex-direction: row; align-item:center;">
- <div>
-   # Antoine Fusilier - Concepteur Développeur D'Applications & Data Engineer
+# Antoine Fusilier - Concepteur Développeur D'Applications & Data Engineer
 
 ![Profile Picture](https://your-image-url.com/antoine_fusilier_profile.jpg)
 
@@ -58,15 +54,6 @@ En dehors du développement, je m'intéresse également à l'actualité économi
 - Portfolio: [antoinefusilier.dev](https://antoinefusilier.dev)
 
 N'hésitez pas à me contacter si vous avez des questions ou des opportunités d'alternance à me proposer !
-
-
- </div>
-  <div>
-    <a href="https://app.daily.dev/sahirato"><img src="https://api.daily.dev/devcards/a739efec348643cf9a42b295f98fe775.png?r=1fl" width="400" alt="Antoine Fusilier's Dev Card"/></a>
-  </div>
-</div>
-.
---->
 
 
 
