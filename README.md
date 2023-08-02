@@ -1,31 +1,72 @@
 !['Robot']('assets/giphy_robot.gif')
+<!---
 <div style="display: flex; flex-direction: row; align-item:center;">
-  <div>
-    - 👋 Hi, I’m @antoinefusilier
-    - 👀 I’m interested in Google Cloud, Object, Components and Containers !
-    - 🌱 I’m currently learning Cyber Security, NodeJS, Angular, SQL Advanced and TypeScript
-    - 💞️ I’m looking to collaborate on Independante
-    - 📫 How to reach me : antoinefusilier@gmail.com
-  </div>
-  <div>My readme file is not done yet! thank you for your understanding ... 🩹
+ <div>
+   # Antoine Fusilier - Concepteur Développeur D'Applications & Data Engineer
 
-  ██████  ▄▄▄       ██░ ██  ██▓ ██▀███   ▄▄▄     ▄▄▄█████▓ ▒█████  </br>
-▒██    ▒ ▒████▄    ▓██░ ██▒▓██▒▓██ ▒ ██▒▒████▄   ▓  ██▒ ▓▒▒██▒  ██▒</br>
-░ ▓██▄   ▒██  ▀█▄  ▒██▀▀██░▒██▒▓██ ░▄█ ▒▒██  ▀█▄ ▒ ▓██░ ▒░▒██░  ██▒</br>
-  ▒   ██▒░██▄▄▄▄██ ░▓█ ░██ ░██░▒██▀▀█▄  ░██▄▄▄▄██░ ▓██▓ ░ ▒██   ██░</br>
-▒██████▒▒ ▓█   ▓██▒░▓█▒░██▓░██░░██▓ ▒██▒ ▓█   ▓██▒ ▒██▒ ░ ░ ████▓▒░</br>
-▒ ▒▓▒ ▒ ░ ▒▒   ▓▒█░ ▒ ░░▒░▒░▓  ░ ▒▓ ░▒▓░ ▒▒   ▓▒█░ ▒ ░░   ░ ▒░▒░▒░ </br>
-░ ░▒  ░ ░  ▒   ▒▒ ░ ▒ ░▒░ ░ ▒ ░  ░▒ ░ ▒░  ▒   ▒▒ ░   ░      ░ ▒ ▒░ </br>
-░  ░  ░    ░   ▒    ░  ░░ ░ ▒ ░  ░░   ░   ░   ▒    ░      ░ ░ ░ ▒  </br>
-      ░        ░  ░ ░  ░  ░ ░     ░           ░  ░            ░ ░  </br>
-                                                                   </br>
-                                                                   </br>
-                                                                  </div>
+![Profile Picture](https://your-image-url.com/antoine_fusilier_profile.jpg)
+
+## À propos de moi
+
+Bonjour ! Je suis Antoine Fusilier, un développeur passionné avec 2 ans d'expérience dans le domaine du développement d'applications et de la gestion de données. J'ai acquis des compétences variées dans de nombreuses technologies, aussi bien dans le Backend, le Frontend que dans la gestion de bases de données et le Cloud.
+
+## Compétences techniques
+
+### Backend
+- NodeJS
+- Django
+- Spark
+- Spring Boot
+
+### Frontend
+- Angular
+- React
+- Prestashop
+
+### Bases de données
+- MySQL
+- MariaDB
+- SQL Server
+- MongoDB
+- R2
+
+### Cloud
+- Google Cloud Platform (GCP)
+
+## Projets réalisés
+
+### Script de déploiement d'applications
+
+J'ai développé des scripts en Python qui permettent le déploiement et la gestion d'applications Frontend et d'autres types d'applications sur Google Cloud Platform directement depuis un simple terminal. Ces scripts facilitent l'installation et la mise à jour des différentes dépendances pour rendre le processus de déploiement plus rapide et efficace.
+
+### Intégration CMS-ERP
+
+J'ai réalisé un projet de serveur backend permettant la réalisation et le transfert de données entre un CMS (Prestashop) et un ERP (Divalto). Cette intégration a permis une meilleure synchronisation des données et une gestion plus fluide des activités e-commerce.
+
+## Outils et méthodologies
+
+J'utilise des outils tels que Jira et Confluence pour la gestion de projets, ainsi que diverses applications de bureautique pour réaliser les schémas de construction d'un projet d'application.
+
+## Intérêts personnels
+
+En dehors du développement, je m'intéresse également à l'actualité économique, la bourse et les placements en crypto-monnaies.
+
+## Me contacter
+
+- Email: antoine.fusilier@example.com
+- LinkedIn: [Antoine Fusilier](https://www.linkedin.com/in/antoinefusilier/)
+- Portfolio: [antoinefusilier.dev](https://antoinefusilier.dev)
+
+N'hésitez pas à me contacter si vous avez des questions ou des opportunités d'alternance à me proposer !
+
+
+ </div>
   <div>
     <a href="https://app.daily.dev/sahirato"><img src="https://api.daily.dev/devcards/a739efec348643cf9a42b295f98fe775.png?r=1fl" width="400" alt="Antoine Fusilier's Dev Card"/></a>
   </div>
 </div>
-
+.
+--->
 
 
 
