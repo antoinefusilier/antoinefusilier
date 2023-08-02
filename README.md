@@ -49,7 +49,7 @@ En dehors du développement, je m'intéresse également à l'actualité économi
 
 ## Me contacter
 
-- Email: antoine.fusilier@example.com
+- Email: [antoine.fusilier@gmail.com](mailto: "antoinefusilier@gmail.com")
 - LinkedIn: [Antoine Fusilier](https://www.linkedin.com/in/antoinefusilier/)
 - Portfolio: [antoinefusilier.dev](https://antoinefusilier.dev)
 
