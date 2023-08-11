@@ -1,6 +1,6 @@
 # Antoine Fusilier - Concepteur Développeur D'Application
 
-![Profile Picture](assets/photo_profil-bg_less.png =150x150)
+<img src="assets/photo_profil-bg_less.png" alt="drawing" width="150"/>
 
 ## Summary
 
