@@ -1,6 +1,6 @@
 # Antoine Fusilier - Concepteur Développeur D'Applications & Data Engineer
 
-![Profile Picture](https://photos.app.goo.gl/E85egYcBnmuNQs1x5)
+![Profile Picture](assets/photo_profil-bg_less.png)
 
 ## Summary
 
