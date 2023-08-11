@@ -2,6 +2,11 @@
 
 ![Profile Picture](https://your-image-url.com/antoine_fusilier_profile.jpg)
 
+## Summary
+
+![Repository Structure and Nommenclature](./repositoryStructureAndNommenclature.md)
+
+
 ## À propos de moi
 
 Bonjour ! Je suis Antoine Fusilier, un développeur passionné avec 2 ans d'expérience dans le domaine du développement d'applications et de la gestion de données. J'ai acquis des compétences variées dans de nombreuses technologies, aussi bien dans le Backend, le Frontend que dans la gestion de bases de données et le Cloud.
