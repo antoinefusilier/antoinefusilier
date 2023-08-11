@@ -1,10 +1,10 @@
 # Antoine Fusilier - Concepteur Développeur D'Applications & Data Engineer
 
-![Profile Picture](https://your-image-url.com/antoine_fusilier_profile.jpg)
+![Profile Picture](https://photos.app.goo.gl/E85egYcBnmuNQs1x5)
 
 ## Summary
 
-![Repository Structure and Nommenclature](./repositoryStructureAndNommenclature.md)
+[Repository Structure and Nommenclature](./repositoryStructureAndNomenclature.md)
 
 
 ## À propos de moi
