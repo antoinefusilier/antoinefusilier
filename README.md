@@ -4,7 +4,7 @@
 
 ## Summary
 
-[Repository Structure and Nommenclature](https://github.com/antoinefusilier/antoinefusilier/blob/Up/repositoryStructureAndNomenclature)
+[Repository Structure and Nommenclature](https://github.com/antoinefusilier/antoinefusilier/blob/Up/repositoryStructureAndNomenclature.md)
 
 
 ## À propos de moi
