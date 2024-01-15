@@ -12,7 +12,7 @@
             <p>Bonjour ! Je suis Antoine Fusilier, un développeur passionné avec 2 ans d'expérience dans le domaine du développement d'applications et de la gestion de données. J'ai acquis des compétences variées dans de nombreuses technologies, aussi bien dans le Backend, le Frontend que dans la gestion de bases de données et le Cloud.</p>
         </td>
         <td>
-            <img src="assets/photo_profil_1.jpg" alt="drawing" width="200">
+            <img src="assets/photo_profil_1.jpg" alt="drawing" width="2000">
         </td>
     </tr>
     <tr>
