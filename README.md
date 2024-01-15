@@ -7,14 +7,7 @@
       <p><a href="https://github.com/antoinefusilier/antoinefusilier/blob/Up/repositoryStructureAndNomenclature.md">Repository Structure and Nomenclature</a></p>
       <h2>À propos de moi</h2>
       <p>Bonjour ! Je suis Antoine Fusilier, un développeur passionné avec 2 ans d'expérience...</p>
-    </td>
-    <td width="50%">
-      <img src="assets/photo_profil_1.jpg" alt="Antoine Fusilier" width="300"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h2>Compétences techniques</h2>
+        <h2>Compétences techniques</h2>
       <h3>Backend</h3>
       <ul>
         <li>NodeJS</li>
@@ -39,6 +32,9 @@
       <ul>
         <li>Google Cloud Platform (GCP)</li>
       </ul>
+    </td>
+    <td width="50%">
+      <img src="assets/photo_profil_1.jpg" alt="Antoine Fusilier" width="300"/>
     </td>
   </tr>
 </table>
