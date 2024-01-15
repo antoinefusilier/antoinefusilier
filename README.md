@@ -16,7 +16,9 @@
         </td>
     </tr>
     <tr>
+        <td>
             <h2>Compétences techniques</h2>
+        </td>
     </tr>
     <tr>
         <td>
