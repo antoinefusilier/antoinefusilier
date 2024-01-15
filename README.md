@@ -7,27 +7,21 @@
       <p><a href="https://github.com/antoinefusilier/antoinefusilier/blob/Up/repositoryStructureAndNomenclature.md">Repository Structure and Nomenclature</a></p>
       <h2>👤 À propos de moi</h2>
       <p>Bonjour ! Je suis Antoine Fusilier, un développeur passionné avec 2 ans d'expérience...</p>
-      
       <h2>💼 Compétences techniques</h2>
       <h3>Backend</h3>
       ![NodeJS](https://img.shields.io/badge/-NodeJS-green)
       ![Django](https://img.shields.io/badge/-Django-092E20)
       ![Spark](https://img.shields.io/badge/-Spark-E25A1C)
       ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F)
-
       <h3>Frontend</h3>
       ![Angular](https://img.shields.io/badge/-Angular-DD0031)
       ![React](https://img.shields.io/badge/-React-61DAFB)
-
       <h3>Bases de données</h3>
       ![MySQL](https://img.shields.io/badge/-MySQL-4479A1)
       ![MariaDB](https://img.shields.io/badge/-MariaDB-003545)
       ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927)
-     
-
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248)
+        ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248)
       ![R2](https://img.shields.io/badge/-R2-276DC3)
-
       <h3>Cloud</h3>
       ![Google Cloud Platform (GCP)](https://img.shields.io/badge/-GCP-4285F4)
     </td>
