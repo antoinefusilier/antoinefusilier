@@ -9,21 +9,21 @@
       <p>Bonjour ! Je suis Antoine Fusilier, un développeur passionné avec 2 ans d'expérience...</p>
       <h2>💼 Compétences techniques</h2>
       <h3>Backend</h3>
-      ![NodeJS](https://img.shields.io/badge/-NodeJS-green)
-      ![Django](https://img.shields.io/badge/-Django-092E20)
-      ![Spark](https://img.shields.io/badge/-Spark-E25A1C)
-      ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F)
+        <img src="https://img.shields.io/badge/-NodeJS-green" alt="NodeJS" />
+        <img src="https://img.shields.io/badge/-Django-092E20" alt="Django" />
+        <img src="https://img.shields.io/badge/-Spark-E25A1C" alt="Spark" />
+        <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F" alt="Spring Boot" />
       <h3>Frontend</h3>
-      ![Angular](https://img.shields.io/badge/-Angular-DD0031)
-      ![React](https://img.shields.io/badge/-React-61DAFB)
+        <img src="https://img.shields.io/badge/-Angular-DD0031" alt="Angular" />
+        <img src="https://img.shields.io/badge/-React-61DAFB" alt="React" />
       <h3>Bases de données</h3>
-      ![MySQL](https://img.shields.io/badge/-MySQL-4479A1)
-      ![MariaDB](https://img.shields.io/badge/-MariaDB-003545)
-      ![SQL Server](https://img.shields.io/badge/-SQL_Server-CC2927)
-        ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248)
-      ![R2](https://img.shields.io/badge/-R2-276DC3)
+        <img src="https://img.shields.io/badge/-MySQL-4479A1" alt="MySQL" />
+        <img src="https://img.shields.io/badge/-MariaDB-003545" alt="MariaDB" />
+        <img src="https://img.shields.io/badge/-SQL_Server-CC2927" alt="SQL Server" />
+        <img src="https://img.shields.io/badge/-MongoDB-47A248" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/-R2-276DC3" alt="R2" />
       <h3>Cloud</h3>
-      ![Google Cloud Platform (GCP)](https://img.shields.io/badge/-GCP-4285F4)
+      <img src="https://img.shields.io/badge/-GCP-4285F4" alt="Google Cloud Platform (GCP)" />
     </td>
     <td width="35%">
       <img src="assets/photo_profil_1.jpg" alt="Antoine Fusilier" width="300"/>
