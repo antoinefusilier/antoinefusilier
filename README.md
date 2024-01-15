@@ -2,7 +2,7 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="65%">
       <h2>Summary</h2>
       <p><a href="https://github.com/antoinefusilier/antoinefusilier/blob/Up/repositoryStructureAndNomenclature.md">Repository Structure and Nomenclature</a></p>
       <h2>À propos de moi</h2>
@@ -33,7 +33,7 @@
         <li>Google Cloud Platform (GCP)</li>
       </ul>
     </td>
-    <td width="50%">
+    <td width="35%">
       <img src="assets/photo_profil_1.jpg" alt="Antoine Fusilier" width="300"/>
     </td>
   </tr>
