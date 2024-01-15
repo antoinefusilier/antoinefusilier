@@ -12,36 +12,49 @@
             <p>Bonjour ! Je suis Antoine Fusilier, un développeur passionné avec 2 ans d'expérience dans le domaine du développement d'applications et de la gestion de données. J'ai acquis des compétences variées dans de nombreuses technologies, aussi bien dans le Backend, le Frontend que dans la gestion de bases de données et le Cloud.</p>
         </td>
         <td>
-            <img src="assets/photo_profil_1.jpg" alt="drawing" width="2000">
+            <img src="assets/photo_profil_1.jpg" alt="drawing" width="5000">
         </td>
     </tr>
     <tr>
+        <td>
+            <h2>Compétences techniques</h2>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <h3>Backend</h3>
+            <ul>
+                <li>NodeJS</li>
+                <li>Django</li>
+                <li>Spark</li>
+                <li>Spring Boot</li>
+            </ul>
+        </td>
+        <td>
+            <h3>Frontend</h3>
+            <ul>
+                <li>Angular</li>
+                <li>React</li>
+            </ul>
+        </td>
+        <td>
+            <h3>Bases de données</h3>
+            <ul>
+                <li>MySQL</li>
+                <li>MariaDB</li>
+                <li>SQL Server</li>
+                <li>MongoDB</li>
+                <li>R2</li>
+            </ul>
+        </td>
+        <td>
+            <h3>Cloud</h3>
+            <ul>
+                <li>Google Cloud Platform (GCP)</li>
+            </ul>
+        </td>
     </tr>
 </table>
-
-
-## Compétences techniques
-
-### Backend
-- NodeJS
-- Django
-- Spark
-- Spring Boot
-
-### Frontend
-- Angular
-- React
-- Prestashop
-
-### Bases de données
-- MySQL
-- MariaDB
-- SQL Server
-- MongoDB
-- R2
-
-### Cloud
-- Google Cloud Platform (GCP)
 
 ## Projets réalisés
 
