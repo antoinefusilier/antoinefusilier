@@ -1,15 +1,24 @@
 # Antoine Fusilier - Concepteur Développeur D'Application
 
-<img src="assets/photo_profil-bg_less.png" alt="drawing" width="150"/>
-
-## Summary
-
-[Repository Structure and Nommenclature](https://github.com/antoinefusilier/antoinefusilier/blob/Up/repositoryStructureAndNomenclature.md)
 
 
-## À propos de moi
 
-Bonjour ! Je suis Antoine Fusilier, un développeur passionné avec 2 ans d'expérience dans le domaine du développement d'applications et de la gestion de données. J'ai acquis des compétences variées dans de nombreuses technologies, aussi bien dans le Backend, le Frontend que dans la gestion de bases de données et le Cloud.
+<table>
+    <tr>
+        <td>
+            <h2>Summary</h2>
+            <p>[Repository Structure and Nommenclature](https://github.com/antoinefusilier/antoinefusilier/blob/Up/repositoryStructureAndNomenclature.md)</p>
+            <h2>À propos de moi</h2>
+            <p>Bonjour ! Je suis Antoine Fusilier, un développeur passionné avec 2 ans d'expérience dans le domaine du développement d'applications et de la gestion de données. J'ai acquis des compétences variées dans de nombreuses technologies, aussi bien dans le Backend, le Frontend que dans la gestion de bases de données et le Cloud.</p>
+        </td>
+        <td>
+            <img src="assets/photo_profil_1.jpg" alt="drawing">
+        </td>
+    </tr>
+    <tr>
+    </tr>
+</table>
+
 
 ## Compétences techniques
 
