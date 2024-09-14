@@ -1,4 +1,4 @@
-# Antoine Fusilier - Application Developer and Designer
+# Antoine Fusilier - Software and Data Engineer
 
 <table>
   <tr>
@@ -132,14 +132,3 @@ Implemented a back-end server for data transfer between a CMS (PrestaShop) and a
 ## 📝 Blog
 
 I'm currently developing my personal blog where I'll share insights on technology, programming, and personal projects. Stay tuned for updates!
-
----
-
-## 💡 Suggestions
-
-- **Certifications**: Include badges for professional certifications you've obtained.
-- **Open Source Contributions**: Highlight your detailed contributions to open-source projects.
-- **Recommendations**: Include testimonials or recommendations from colleagues or clients.
-- **"In Progress" Section**: Present the projects or skills you are currently learning or developing.
-
-Feel free to customize this README further by adding direct links to your GitHub projects, images, or screenshots of your work, and any other information that might interest visitors to your profile.
