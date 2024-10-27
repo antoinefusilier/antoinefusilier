@@ -87,7 +87,7 @@
       </ul>
     </td>
     <td width="35%">
-      <img src="assets/photo_profil_1.jpg" alt="Antoine Fusilier" width="300"/>
+      <img src="assets/photo_profil_2.jpg" alt="Antoine Fusilier" width="300"/>
     </td>
   </tr>
 </table>
