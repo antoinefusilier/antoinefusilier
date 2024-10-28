@@ -3,8 +3,8 @@
 <table>
   <tr>
     <td width="65%">
-      <h2>📚 Table of Contents</h2>
-      <p><a href="https://github.com/antoinefusilier/antoinefusilier/blob/Up/repositoryStructureAndNomenclature.md">Repository Structure and Nomenclature</a></p>
+<!--       <h2>📚 Table of Contents</h2>
+      <p><a href="https://github.com/antoinefusilier/antoinefusilier/blob/Up/repositoryStructureAndNomenclature.md">Repository Structure and Nomenclature</a></p> -->
       <h2>👤 About Me</h2>
       <p>
         Hello! I'm Antoine Fusilier, a passionate developer with over 2 years of experience. Specialized in Big Data and Cloud technologies, I'm constantly seeking new opportunities to learn and innovate. I focus on IT, automation, and robotization, continuously expanding my knowledge through personal research and professional projects.
