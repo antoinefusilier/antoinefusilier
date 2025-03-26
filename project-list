@@ -1,0 +1,25 @@
+| Code       | Project                             | Description                                                       | Status       |
+|------------|-------------------------------------|-------------------------------------------------------------------|--------------|
+| ETHOS      | Ethos                               | Personal branding and career identity toolkit                     | In Progress  |
+| ACADEMOS   | Academos                            | Digital academy for structured cross-domain learning              | In Progress  |
+| C0D3STRM   | Code Stream                         | Project architecture & ticket-based dev environment               | In Progress  |
+| APOL       | ApollonAI                           | Optimization framework for AI modelization                        | In Progress  |
+| AVIP       | Autonomous Vehicle Image Processing | Image segmentation pipeline & FastAPI prediction service          | In Study     |
+| ACCG       | Auto Classify Consumer Goods        | Multimodal ML classification for e-commerce                       | In Progress  |
+| HCSM       | Home Credit Scoring Model           | Interpretable ML model for credit scoring (AUC 0.81)              | In Progress  |
+| SAND       | Sentiment Analysis Deep             | Tweet sentiment prediction with BERT & CI/CD                      | In Progress  |
+| SMRTC24P   | Smart City Tree Optimization        | Route optimization via tree dataset (Paris)                       | Finished     |
+| AIPOC      | AI Proof of Concept                 | Benchmark between classic and advanced ML models                  | In Study     |
+| ECCS       | E-commerce Customer Segmentation    | Unsupervised clustering & SQL dashboarding                        | In Progress  |
+| CRAM       | Content Recommendation App          | Serverless recommender MVP on Azure Functions                     | In Progress  |
+| SBDP       | Big Data Fruit Classification       | PySpark pipeline for AgriTech biodiversity app                    | Finished     |
+| AFRS       | Fashion Recommender                 | AI outfit recommender with Agile roadmap & COMEX pitch            | In Study     |
+| P3M        | Project Mental Model Manager        | Strategic knowledge & agile project architecture                  | In Progress  |
+| AFCONSUL   | AF Consult                          | Freelance consulting entity setup & structure                     | In Progress  |
+| SOBOT      | SG Bot                              | Custom LLM bot with Azure OpenAI & React frontend                 | In Progress  |
+| FPU        | FeatPick UI                         | Light UI for feature registry platform                            | Finished     |
+| QLEAP      | Quantum Leap                        | Tech innovation ecosystem framework                               | In Study     |
+| PHILIA     | Philia                              | Family task/calendar/drive manager under custom domain            | In Study     |
+| NOUS       | Nous                                | Framework for cognitive, emotional, and intellectual growth       | In Study     |
+| EURA       | Eurathos                            | European ecosystem for cloud & framework sovereignty              | In Progress  |
+| AIDECO     | Aideco Services                     | Facilities Services Enterprise                                     | Finished     |
