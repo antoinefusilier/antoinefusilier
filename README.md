@@ -35,8 +35,6 @@ With experience as the **former CEO of a 11-person SARL**, I combine strong lead
 
 ## 📂 Projects
 
-Here’s a selection of key and ongoing projects. [📄 View full catalogue](https://github.com/antoinefusilier/project-catalogue)
-
 | Code | Project | Description | Status |
 |------|---------|-------------|--------|
 | `APOL` | **ApollonAI** | Framework for optimizing and scaling AI model design | 🚧 In Progress |
@@ -47,7 +45,7 @@ Here’s a selection of key and ongoing projects. [📄 View full catalogue](htt
 | `SBDP` | **Big Data Fruit Pipeline** | PySpark pipeline for AgriTech startup (GDPR + AWS EMR) | ✅ Finished |
 | `AFRS` | **Fashion Recommender** | AI app for outfit-based suggestions via Azure | 📘 In Study |
 
-▶️ Full list: [📘 Project Catalogue](https://github.com/antoinefusilier/project-catalogue)
+▶️ Full list: [📘 Project Catalogue](https://github.com/antoinefusilier/antoinefusilier/blob/Up/project-catalogue)
 
 ---
 
