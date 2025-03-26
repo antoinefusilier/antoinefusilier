@@ -72,7 +72,7 @@ Here’s a selection of key and ongoing projects. [📄 View full catalogue](htt
 
 ## 📞 Contact
 
-- **Email**: [ontact@af-consult.pro](mailto:contact@af-consult.pro)  
+- **Email**: [contact@af-consult.pro](mailto:contact@af-consult.pro)  
 - **LinkedIn**: [linkedin.com/in/antoinefusilier](https://www.linkedin.com/in/antoinefusilier)  
 - **Portfolio**: [antoinefusilier.dev](https://antoinefusilier.dev)
 
