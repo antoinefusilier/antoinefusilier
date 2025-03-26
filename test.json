@@ -1,0 +1,20 @@
+{
+  "id": 12345,
+  "name": "Jane Doe",
+  "email": "jane.doe@example.com",
+  "isActive": true,
+  "roles": ["user", "admin"],
+  "profile": {
+    "age": 30,
+    "gender": "female",
+    "country": "Germany"
+  },
+  "preferences": {
+    "newsletter": true,
+    "notifications": {
+      "email": true,
+      "sms": false
+    }
+  },
+  "createdAt": "2025-03-26T10:00:00Z"
+}
